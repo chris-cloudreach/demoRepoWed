@@ -6,3 +6,11 @@ data_subnet_cidr        = ["10.106.17.128/25", "10.106.18.0/25", "10.106.18.128/
 
 customer_dc_networks = ["10.0.0.0/8"]
 
+account_name = "DNC"
+customer_name = "DNC"
+account_id = "123456"
+aws_region = "islington"
+external_id = "DN"
+vpc_cidr = "10.0.0.0/16"
+whitelist = ["10.0.0.0/8"]
+vpc_name = "dnc_vpc"
