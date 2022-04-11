@@ -1,0 +1,6 @@
+server_name,instanceType,subnet_IDs,securitygroup_IDs,private_ip,iamRole,startup_group
+hostname1,c5.large,subnet-id,1
+hostname2,c5.large,subnet-id,1
+hostname3,c5.large,subnet-id,2
+hostname4,c5.large,subnet-id,2
+hostname5,c5.large,subnet-id,3
