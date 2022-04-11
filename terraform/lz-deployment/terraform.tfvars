@@ -1,17 +1,11 @@
-account_name = "name"
-
 internet = "0.0.0.0/0"
-
-
-vpc_name                = "name"
 
 public_subnet_cidr      = ["10.106.16.0/26", "10.106.16.64/26", "10.106.16.128/26"]
 application_subnet_cidr = ["10.106.16.192/26", "10.106.17.0/26", "10.106.17.64/26"]
 data_subnet_cidr        = ["10.106.17.128/25", "10.106.18.0/25", "10.106.18.128/25"]
-whitelist               = ["10.0.0.0/8"]
 
 customer_dc_networks = ["10.0.0.0/8"]
-customer_name        = "name"
+
 
 
 
